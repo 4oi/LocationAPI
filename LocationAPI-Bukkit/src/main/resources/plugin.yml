@@ -1,0 +1,6 @@
+name: LocationAPI-Bukkit
+version: 0.1.0
+description: LocationAPI plugin message sender
+author: toyblocks
+
+main: jp.llv.locapi.WorldChangeListener
